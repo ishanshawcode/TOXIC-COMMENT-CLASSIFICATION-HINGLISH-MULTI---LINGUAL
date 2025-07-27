@@ -2,17 +2,6 @@
 Uses BiLSTM Model to classify toxic comments. Integrated with Deep Translate , can be uses for more Hindi , Hinglish and other languages.
 
 
-
-
-
-
-
-
-
-
-
-
-
 Toxicity File is used to train the model using jigsaw-toxic-comment-classification-challenge dataset. 
     It conatins code to test the model in English only.
     Reccomended epochs >10
